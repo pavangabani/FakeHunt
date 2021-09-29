@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/324279697/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/324279697/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1653077939/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/1653077939/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-273962524/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-273962524/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/726400589/android.google_sign_in.iml" filepath="$PROJECT_DIR$/.idea/modules/726400589/android.google_sign_in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1315129534/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1315129534/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-628029934/android.starflut.iml" filepath="$PROJECT_DIR$/.idea/modules/-628029934/android.starflut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1608897603/android.tflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1608897603/android.tflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1251384455/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-1251384455/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/815366642/android.webview_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/815366642/android.webview_flutter.iml" />
+    </modules>
+  </component>
+</project>
